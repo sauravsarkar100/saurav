@@ -1,0 +1,65 @@
+.container {
+    margin: 0;
+    padding: 0;
+}
+
+.left-contant{
+  background: rgb(173, 168, 168);
+  
+}
+.right-contant{
+    background: rgb(183, 197, 197);
+    overflow: hidden;
+    
+}
+.img-contant img{
+  width: 100%;
+  height: 190px;
+  
+}
+.font-contant hr{
+    width: 65%;
+    height: 1px;
+    border: none;
+    background: #333;
+    /* line-height: 47px; */
+    margin-top: -4px;
+    margin: auto;
+}
+.font-contant span{
+    font-size: 13px;
+   
+}
+.font-contant p{
+    font-size: 10px;
+}
+
+.ul-contant hr{
+    width: 65%;
+    height: 0.1px;
+    border: none;
+    background:#333;
+    /* line-height: 47px; */
+    margin-top: -4px;
+}
+.left-box p{
+    font-size: 12px;
+    line-height: 10px;
+
+}
+.left-box hr{
+    width: 50%;
+    height: 1px;
+    border: none;
+    background:#333;
+    margin-left: 1px;
+    margin-top: -4px;
+}
+.name-contant{
+    background: rgb(184, 180, 180);
+    width: 100%;
+    height: 190px;
+    text-align: center;
+    
+}
+
